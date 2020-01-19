@@ -1,9 +1,9 @@
-package cpsc;
+package Decorator1;
 
 public class MarbleFlavorCake extends FlavorDecorator {
 	
-	public String addFlavor() {		
-		return "MarbleFlavor";
+	public MarbleFlavorCake(BasicCake specialCake) {
+		super(specialCake);
 	}
 	
 	public double getCost() {		

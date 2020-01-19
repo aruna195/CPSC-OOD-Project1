@@ -1,4 +1,4 @@
-package cpsc;
+package CPSC;
 
 public interface Cake {		
 	public String getDescription();
