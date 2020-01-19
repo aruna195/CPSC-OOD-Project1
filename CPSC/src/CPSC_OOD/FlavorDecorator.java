@@ -1,4 +1,4 @@
-package CPSC;
+package CPSC_OOD;
 
 public abstract class FlavorDecorator implements Cake {
 	

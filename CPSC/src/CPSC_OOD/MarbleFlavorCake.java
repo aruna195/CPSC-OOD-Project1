@@ -1,4 +1,4 @@
-package CPSC;
+package CPSC_OOD;
 
 public class MarbleFlavorCake implements Cake {
 	
